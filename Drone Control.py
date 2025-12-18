@@ -18,7 +18,7 @@ async def main():
         if health.is_global_position_ok and health.is_home_position_ok:
             print("✅ GPS 和 Home 已锁定，可以起飞。")
             break
-
+'''
     # 解锁并起飞
     print("🛫 解锁 (Arm)...")
     await drone.action.arm()
@@ -43,5 +43,5 @@ async def main():
 
     await asyncio.sleep(10)
     print("✅ 任务完成。")
-
+'''
 asyncio.run(main())

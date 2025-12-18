@@ -1,1 +1,4 @@
 mavsdk>=2.0.0,<3.0.0
+pyserial>=3.5
+pymavlink>=2.4.41
+matplotlib>=3.8,<4.0

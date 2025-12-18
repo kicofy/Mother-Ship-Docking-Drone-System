@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: aiogrpc
+Version: 1.8
+Summary: asyncio wrapper for grpc.io
+Home-page: https://github.com/hubo1016/aiogrpc
+Author: Hu Bo
+Author-email: hubo1016@126.com
+License: Apache
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Framework :: AsyncIO
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development
+Classifier: Framework :: AsyncIO
+Requires-Python: >=3.6
+Requires-Dist: grpcio (>=1.12.0)
+
+UNKNOWN
+
+
